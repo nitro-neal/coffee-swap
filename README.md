@@ -1,6 +1,6 @@
 # coffee-swap
 
-☕
+# ☕
 
 The Coffee Swap Farm allows users to yield farm Coffee rewards with each new block based on staking SLP tokens they received.
 
